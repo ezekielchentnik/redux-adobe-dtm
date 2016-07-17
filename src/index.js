@@ -1,4 +1,4 @@
-import reporter from 'reporter';
+import reporter from 'redux-reporter';
 
 export default reporter(({ type, payload }) => {
 
