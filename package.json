@@ -1,6 +1,6 @@
 {
 	"name": "redux-adobe-dtm",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"description": "Redux middleware & helpers for tracking analytics with adobe dtm.",
 	"main": "lib/index.js",
 	"scripts": {
@@ -39,6 +39,6 @@
 		"sinon": "1.17.1"
 	},
 	"dependencies": {
-		"redux-reporter": "0.0.3"
+		"redux-reporter": "0.0.5"
 	}
 }
